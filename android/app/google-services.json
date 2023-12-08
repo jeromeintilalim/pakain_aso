@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351151743403",
+    "project_id": "pakain-aso1",
+    "storage_bucket": "pakain-aso1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351151743403:android:6f18d096879b4d593a32ee",
+        "android_client_info": {
+          "package_name": "com.example.pakain_aso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCAYZ04JrFQ87ILdKevYiBQ32Uop7pbKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
